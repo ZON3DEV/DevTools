@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/673/trunk/src/stormlib/src
+END
+SFileFindFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileFindFile.cpp
+END
+SBaseFileTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/667/trunk/src/stormlib/src/SBaseFileTable.cpp
+END
+SBaseCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/667/trunk/src/stormlib/src/SBaseCommon.cpp
+END
+SFilePatchArchives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFilePatchArchives.cpp
+END
+SFileAttributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileAttributes.cpp
+END
+SFileAddFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileAddFile.cpp
+END
+SFileCompactArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileCompactArchive.cpp
+END
+SBaseDumpData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/525/trunk/src/stormlib/src/SBaseDumpData.cpp
+END
+StormPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/673/trunk/src/stormlib/src/StormPort.h
+END
+SFileOpenFileEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileOpenFileEx.cpp
+END
+StormCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/667/trunk/src/stormlib/src/StormCommon.h
+END
+SCompression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/667/trunk/src/stormlib/src/SCompression.cpp
+END
+SFileOpenArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileOpenArchive.cpp
+END
+SFileVerify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileVerify.cpp
+END
+SFileCreateArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileCreateArchive.cpp
+END
+FileStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/667/trunk/src/stormlib/src/FileStream.cpp
+END
+SFileExtractFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileExtractFile.cpp
+END
+SFileReadFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileReadFile.cpp
+END
+SFileListFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/667/trunk/src/stormlib/src/SFileListFile.cpp
+END
+StormLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/673/trunk/src/stormlib/src/StormLib.h
+END

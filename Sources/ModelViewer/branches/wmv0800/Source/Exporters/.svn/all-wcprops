@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters
+END
+Lightwave3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/621/branches/wmv0800/Source/Exporters/Lightwave3D.h
+END
+Exporters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/624/branches/wmv0800/Source/Exporters/Exporters.pro
+END
+exporters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/exporters.cpp
+END
+Settings_Exporters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/Settings_Exporters.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/628/branches/wmv0800/Source/Exporters/CMakeLists.txt
+END
+Exporters_VC90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/Exporters_VC90.vcproj
+END
+Exporters_VC100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/Exporters_VC100.vcxproj
+END
+Settings_Exporters.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/Settings_Exporters.h
+END
+exporters.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/exporters.h
+END
+exporters_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/609/branches/wmv0800/Source/Exporters/exporters_global.h
+END
+Exporters.pri
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/Exporters.pri
+END
+Exporters_VC100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/629/branches/wmv0800/Source/Exporters/Exporters_VC100.vcxproj.filters
+END

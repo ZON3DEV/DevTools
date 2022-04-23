@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/166/trunk/src/stormlib/src/libtomcrypt/src/math
+END
+rand_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/166/trunk/src/stormlib/src/libtomcrypt/src/math/rand_prime.c
+END
+ltm_desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/166/trunk/src/stormlib/src/libtomcrypt/src/math/ltm_desc.c
+END
+multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/166/trunk/src/stormlib/src/libtomcrypt/src/math/multi.c
+END

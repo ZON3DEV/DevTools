@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/huffman
+END
+huff_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/huffman/huff_patch.h
+END
+huff.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/huffman/huff.h
+END
+huff_patch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/huffman/huff_patch.cpp
+END
+huff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/huffman/huff.cpp
+END

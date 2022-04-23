@@ -1,0 +1,30 @@
+K 10
+svn:ignore
+V 262
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.vcproj.*.user
+Debug
+Debug32
+Debug32_VC100
+Debug32_VC90
+Debug64
+Debug64_VC100
+Debug64_VC90
+Release
+Release32
+Release32_VC100
+Release32_VC90
+Release64
+Release64_VC100
+Release64_VC90
+_UpgradeReport_Files
+enUS
+ipch
+log.txt
+
+END

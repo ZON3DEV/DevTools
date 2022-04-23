@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 87
+StormLibDAD.lib
+StormLibDAS.lib
+StormLibRAD.lib
+StormLibRAS.lib
+glew32.lib
+glew32d.lib
+
+END

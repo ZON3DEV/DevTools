@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/156/trunk/src/zlib
+END
+zconf.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/zlib/zconf.in.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/inffast.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/example.c
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/zlib/inffixed.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/ChangeLog
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/156/trunk/src/zlib/gzio.c
+END
+zlib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/zlib/zlib.sln
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/uncompr.c
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/zlib/minigzip.c
+END
+t.eq
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/156/trunk/src/zlib/t.eq
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/156/trunk/src/zlib/FAQ
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/inflate.h
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/zlib/compress.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/zlib/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/156/trunk/src/zlib/CMakeLists.txt
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/infback.c
+END
+make_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/zlib/make_vms.com
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/zlib/Makefile.in
+END
+zlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/zlib/zlib.dsp
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/156/trunk/src/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/zlib/deflate.h
+END
+zlib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/zlib/zlib.dsw
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/156/trunk/src/zlib/README
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/zlib/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/156/trunk/src/zlib/zlib.3
+END
+zlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/zlib/zlib.vcproj
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/trees.c
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/src/zlib/algorithm.txt
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/zlib/inftrees.h
+END
+INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/156/trunk/src/zlib/INDEX
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/zlib/trees.h
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/639/branches/wmv0800/Source
+END
+WMV_VC90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/626/branches/wmv0800/Source/WMV_VC90.vcproj
+END
+WMV_VC100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/626/branches/wmv0800/Source/WMV_VC100.vcxproj
+END
+WMV_VC100.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/609/branches/wmv0800/Source/WMV_VC100.sln
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/wmv0800/Source/enums.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/624/branches/wmv0800/Source/CMakeLists.txt
+END
+resources.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/611/branches/wmv0800/Source/resources.rc
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/611/branches/wmv0800/Source/resource.h
+END
+WoW Model Viewer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/609/branches/wmv0800/Source/WoW%20Model%20Viewer.pro
+END
+Model_ADT.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/624/branches/wmv0800/Source/Model_ADT.h
+END
+MPQ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/wmv0800/Source/MPQ.cpp
+END
+WMV_VC100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/626/branches/wmv0800/Source/WMV_VC100.vcxproj.filters
+END
+Model_M2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/624/branches/wmv0800/Source/Model_M2.h
+END
+lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/wmv0800/Source/lists.h
+END
+Settings_Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/631/branches/wmv0800/Source/Settings_Main.cpp
+END
+WoWDirManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/wmv0800/Source/WoWDirManager.cpp
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/631/branches/wmv0800/Source/application.h
+END
+QsLogDest.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/626/branches/wmv0800/Source/QsLogDest.h
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/wmv0800/Source/resources.qrc
+END
+QsDebugOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/626/branches/wmv0800/Source/QsDebugOutput.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/625/branches/wmv0800/Source/globals.h
+END
+QsLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/626/branches/wmv0800/Source/QsLog.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/wmv0800/Source/version.h
+END
+classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/626/branches/wmv0800/Source/classes.h
+END
+MPQ.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/629/branches/wmv0800/Source/MPQ.h
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/wmv0800/Source/application.cpp
+END
+QsLogDest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/626/branches/wmv0800/Source/QsLogDest.cpp
+END
+Settings_Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/629/branches/wmv0800/Source/Settings_Main.h
+END
+QsDebugOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/626/branches/wmv0800/Source/QsDebugOutput.cpp
+END
+WoWDirManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/wmv0800/Source/WoWDirManager.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/629/branches/wmv0800/Source/constants.h
+END
+globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/625/branches/wmv0800/Source/globals.cpp
+END
+WMV_VC90.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/609/branches/wmv0800/Source/WMV_VC90.sln
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/628/branches/wmv0800/Source/main.cpp
+END
+QsLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/626/branches/wmv0800/Source/QsLog.cpp
+END
+Model_WMO.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/624/branches/wmv0800/Source/Model_WMO.h
+END
+WoW Model Viewer.pri
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/626/branches/wmv0800/Source/WoW%20Model%20Viewer.pri
+END
+WMV.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/609/branches/wmv0800/Source/WMV.pro
+END

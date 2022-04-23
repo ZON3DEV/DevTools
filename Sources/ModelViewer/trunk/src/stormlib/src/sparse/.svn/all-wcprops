@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/166/trunk/src/stormlib/src/sparse
+END
+sparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/sparse/sparse.h
+END
+sparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/166/trunk/src/stormlib/src/sparse/sparse.cpp
+END

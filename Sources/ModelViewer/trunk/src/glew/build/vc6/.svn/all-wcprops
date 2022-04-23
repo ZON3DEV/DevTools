@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/671/trunk/src/glew/build/vc6
+END
+glew_shared.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/478/trunk/src/glew/build/vc6/glew_shared.vcproj
+END
+glew.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/478/trunk/src/glew/build/vc6/glew.sln
+END
+glew_static.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/glew_static.dsp
+END
+glew.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/glew.dsw
+END
+glew_static.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/glew_static.vcxproj
+END
+glewinfo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/glewinfo.dsp
+END
+glew.rc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/671/trunk/src/glew/build/vc6/glew.rc
+END
+glew_VC100.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/glew_VC100.sln
+END
+glew.suo
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/478/trunk/src/glew/build/vc6/glew.suo
+END
+glewinfo.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/glewinfo.vcxproj
+END
+visualinfo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/visualinfo.dsp
+END
+glew_static.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/glew_static.vcxproj.filters
+END
+glew_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/478/trunk/src/glew/build/vc6/glew_static.vcproj
+END
+visualinfo.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/visualinfo.vcxproj
+END
+glew_shared.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/glew_shared.dsp
+END
+glewinfo.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/glewinfo.vcxproj.filters
+END
+glewinfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/glewinfo.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/Makefile
+END
+glewinfo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/671/trunk/src/glew/build/vc6/glewinfo.rc
+END
+glew_shared.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/glew_shared.vcxproj
+END
+visualinfo.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/583/trunk/src/glew/build/vc6/visualinfo.vcxproj.filters
+END
+visualinfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/214/trunk/src/glew/build/vc6/visualinfo.vcproj
+END
+visualinfo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/671/trunk/src/glew/build/vc6/visualinfo.rc
+END

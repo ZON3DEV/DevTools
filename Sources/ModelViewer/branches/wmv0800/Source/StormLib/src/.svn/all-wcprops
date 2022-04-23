@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src
+END
+SFileFindFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileFindFile.cpp
+END
+SBaseFileTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SBaseFileTable.cpp
+END
+SBaseCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SBaseCommon.cpp
+END
+SFilePatchArchives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFilePatchArchives.cpp
+END
+SFileAttributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileAttributes.cpp
+END
+SFileAddFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileAddFile.cpp
+END
+SFileCompactArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileCompactArchive.cpp
+END
+SBaseDumpData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SBaseDumpData.cpp
+END
+StormPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/StormPort.h
+END
+SFileOpenFileEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileOpenFileEx.cpp
+END
+StormCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/StormCommon.h
+END
+SCompression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SCompression.cpp
+END
+SFileOpenArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileOpenArchive.cpp
+END
+SFileVerify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileVerify.cpp
+END
+SFileCreateArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileCreateArchive.cpp
+END
+FileStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/FileStream.cpp
+END
+SFileExtractFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileExtractFile.cpp
+END
+SFileReadFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileReadFile.cpp
+END
+SFileListFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/SFileListFile.cpp
+END
+StormLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/StormLib.h
+END

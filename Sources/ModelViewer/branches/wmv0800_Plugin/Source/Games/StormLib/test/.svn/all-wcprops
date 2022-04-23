@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/test
+END
+starcraft_lzma.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/test/starcraft_lzma.asm
+END
+x86_starcraft_lzma.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/test/x86_starcraft_lzma.asm
+END
+Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/test/Test.cpp
+END
+x86_ripped_code.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/test/x86_ripped_code.asm
+END
+starcraft_sparse.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/test/starcraft_sparse.asm
+END

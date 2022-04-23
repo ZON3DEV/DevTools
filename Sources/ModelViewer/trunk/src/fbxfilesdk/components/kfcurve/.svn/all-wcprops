@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/kfcurve
+END
+kfcurve.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/kfcurve/kfcurve.h
+END
+kfcurveglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/kfcurve/kfcurveglobal.h
+END
+kfcurveutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/kfcurve/kfcurveutils.h
+END
+kfcurvenode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/kfcurve/kfcurvenode.h
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inffast.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/adler32.c
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/zutil.h
+END
+compress2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/compress2.c
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/trees.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/zlib/inftrees.h
+END

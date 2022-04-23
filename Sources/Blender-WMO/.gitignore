@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+#Ipython Notebook
+.ipynb_checkpoints
+io_scene_wmo.sublime_project.sublime-project
+io_scene_wmo.sublime_project.sublime-workspace
+io_scene_wmo/io_scene_wmo.sublime-workspace
+io_scene_wmo/io_scene_wmo.sublime-project
+io_scene_wmo/bin/.vs/io_scene_wmo/v14/.suo
+io_scene_wmo/bin/io_scene_wmo.pyproj
+io_scene_wmo/bin/io_scene_wmo.sln
+io_scene_wmo/.vscode/launch.json
+.gitattributes
+.vs/io_scene_adt/v14/.suo
+io_scene_adt.sln
+io_scene_adt/.vs/io_scene_adt/v14/.suo
+io_scene_adt/__init__.py
+io_scene_adt/adt_format.py
+io_scene_adt/debug_utils.py
+io_scene_adt/developer_utils.py
+io_scene_adt/import_adt.py
+io_scene_adt/.vscode/launch.json
+io_scene_wmo/mpq/wow.py~RF3d9002.TMP
+io_scene_wmo/io_scene_wmo_updater/updater_status.json
+io_scene_wmo/io_wow_studio_updater/updater_status.json
+io_scene_wmo/.idea/workspace.xml
+io_scene_wmo/.idea/modules.xml
+io_scene_wmo/.idea/misc.xml
+io_scene_wmo/.idea/io_scene_wmo.iml
+.idea/workspace.xml
+.idea/wmo-addon-stable.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/621/branches/wmv0800/Source/Math
+END
+math_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/612/branches/wmv0800/Source/Math/math_base.h
+END
+math_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/607/branches/wmv0800/Source/Math/math_constants.h
+END
+math_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/621/branches/wmv0800/Source/Math/math_vector.h
+END
+math_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/607/branches/wmv0800/Source/Math/math_matrix.h
+END
+math_quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/607/branches/wmv0800/Source/Math/math_quaternion.h
+END

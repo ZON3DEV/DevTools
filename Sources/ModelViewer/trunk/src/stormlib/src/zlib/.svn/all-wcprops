@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/trees.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inftrees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inffast.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/adler32.c
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/zutil.h
+END
+compress2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/compress2.c
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/src/stormlib/src/zlib/crc32.h
+END

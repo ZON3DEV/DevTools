@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/525/trunk/src/stormlib/stormlib_dll
+END
+DllMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/166/trunk/src/stormlib/stormlib_dll/DllMain.c
+END
+StormLib.exp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/525/trunk/src/stormlib/stormlib_dll/StormLib.exp
+END
+StormLib.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/525/trunk/src/stormlib/stormlib_dll/StormLib.def
+END

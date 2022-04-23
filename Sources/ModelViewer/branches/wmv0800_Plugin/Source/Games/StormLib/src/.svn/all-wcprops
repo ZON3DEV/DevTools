@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src
+END
+SFileAttributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileAttributes.cpp
+END
+SFileAddFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileAddFile.cpp
+END
+SFileCompactArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileCompactArchive.cpp
+END
+SBaseDumpData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/SBaseDumpData.cpp
+END
+StormPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/StormPort.h
+END
+SFileOpenFileEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileOpenFileEx.cpp
+END
+StormCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/StormCommon.h
+END
+SCompression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SCompression.cpp
+END
+SFileOpenArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileOpenArchive.cpp
+END
+SFileVerify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileVerify.cpp
+END
+SFileCreateArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileCreateArchive.cpp
+END
+FileStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/FileStream.cpp
+END
+SFileExtractFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileExtractFile.cpp
+END
+SFileReadFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileReadFile.cpp
+END
+SFileListFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileListFile.cpp
+END
+StormLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/StormLib.h
+END
+SFileFindFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFileFindFile.cpp
+END
+SBaseFileTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SBaseFileTable.cpp
+END
+SBaseCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SBaseCommon.cpp
+END
+SFilePatchArchives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/src/SFilePatchArchives.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft
+END
+MPQ_WoW.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/MPQ_WoW.h
+END
+classes_WoW.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/classes_WoW.h
+END
+lists_WoW.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/lists_WoW.h
+END
+DirectoryTools_WoW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/DirectoryTools_WoW.cpp
+END
+FileReader_WoW.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/FileReader_WoW.h
+END
+DirectoryTools_WoW.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/DirectoryTools_WoW.h
+END
+enums_WoW.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/enums_WoW.h
+END
+MPQ_WoW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/WorldofWarcraft/MPQ_WoW.cpp
+END

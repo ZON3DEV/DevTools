@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders
+END
+terrain1.fs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/terrain1.fs
+END
+terrain2.fs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/terrain2.fs
+END
+terrain3.fs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/terrain3.fs
+END
+waterfog.ps
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/waterfog.ps
+END
+terrain4.fs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/terrain4.fs
+END
+water.ps
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/water.ps
+END
+wateroutdoor.fs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/wateroutdoor.fs
+END
+wmospecular.fs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/600/branches/wmv0800/Resources/Shaders/wmospecular.fs
+END

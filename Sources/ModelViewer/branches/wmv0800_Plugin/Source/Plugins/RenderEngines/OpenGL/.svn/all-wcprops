@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Plugins/RenderEngines/OpenGL
+END
+OpenGL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/672/branches/wmv0800_Plugin/Source/Plugins/RenderEngines/OpenGL/OpenGL.cpp
+END
+OpenGL_VC100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Plugins/RenderEngines/OpenGL/OpenGL_VC100.vcxproj
+END
+OpenGL_V1C00.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/Plugins/RenderEngines/OpenGL/OpenGL_V1C00.sdf
+END
+OpenGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/Plugins/RenderEngines/OpenGL/OpenGL.h
+END
+OpenGL_VC100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/Plugins/RenderEngines/OpenGL/OpenGL_VC100.vcxproj.filters
+END

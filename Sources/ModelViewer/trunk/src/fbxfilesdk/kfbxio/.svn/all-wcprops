@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio
+END
+kfbxprogress.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxprogress.h
+END
+kfbxiosettingspath.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxiosettingspath.h
+END
+kfbxgobo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxgobo.h
+END
+kfbxio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxio.h
+END
+kfbxexporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxexporter.h
+END
+kfbxiosettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxiosettings.h
+END
+kfbxstatisticsfbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxstatisticsfbx.h
+END
+kfbxexternaldocreflistener.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxexternaldocreflistener.h
+END
+kfbxwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxwriter.h
+END
+kfbxfiletokenfbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxfiletokenfbx.h
+END
+kfbximporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbximporter.h
+END
+kfbxreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxio/kfbxreader.h
+END

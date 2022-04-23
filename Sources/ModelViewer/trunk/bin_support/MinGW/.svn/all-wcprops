@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/648/trunk/bin_support/MinGW
+END
+wxmsw28u_core_gcc_custom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/648/trunk/bin_support/MinGW/wxmsw28u_core_gcc_custom.dll
+END
+wxmsw28u_adv_gcc_custom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/648/trunk/bin_support/MinGW/wxmsw28u_adv_gcc_custom.dll
+END
+wxbase28u_net_gcc_custom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/648/trunk/bin_support/MinGW/wxbase28u_net_gcc_custom.dll
+END
+wxmsw28u_aui_gcc_custom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/648/trunk/bin_support/MinGW/wxmsw28u_aui_gcc_custom.dll
+END
+wxbase28u_xml_gcc_custom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/648/trunk/bin_support/MinGW/wxbase28u_xml_gcc_custom.dll
+END
+wxbase28u_gcc_custom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/648/trunk/bin_support/MinGW/wxbase28u_gcc_custom.dll
+END

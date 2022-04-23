@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games
+END
+Games.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/677/branches/wmv0800_Plugin/Source/Games/Games.vcxproj
+END
+MPQ_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/MPQ_base.cpp
+END
+MPQ_enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/MPQ_enums.h
+END
+Game_Classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/Game_Classes.h
+END
+MPQ_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Games/MPQ_base.h
+END
+Games.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/677/branches/wmv0800_Plugin/Source/Games/Games.vcxproj.filters
+END
+ModelSource_enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/ModelSource_enums.h
+END

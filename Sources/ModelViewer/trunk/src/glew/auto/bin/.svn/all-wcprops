@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/671/trunk/src/glew/auto/bin
+END
+make_info_list.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_info_list.pl
+END
+parse_spec.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/671/trunk/src/glew/auto/bin/parse_spec.pl
+END
+make_header.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/671/trunk/src/glew/auto/bin/make_header.pl
+END
+fix_OML_sync_control.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/fix_OML_sync_control.sh
+END
+make_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_info.pl
+END
+make_struct_var.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_struct_var.pl
+END
+make_struct_fun.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_struct_fun.pl
+END
+make_init.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_init.pl
+END
+update_ext.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/671/trunk/src/glew/auto/bin/update_ext.sh
+END
+make_html.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_html.pl
+END
+make_def_var.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_def_var.pl
+END
+make_def_fun.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_def_fun.pl
+END
+make_str.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/214/trunk/src/glew/auto/bin/make_str.pl
+END
+make_list.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/671/trunk/src/glew/auto/bin/make_list.pl
+END
+update_registry.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/671/trunk/src/glew/auto/bin/update_registry.sh
+END
+make.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/671/trunk/src/glew/auto/bin/make.pl
+END

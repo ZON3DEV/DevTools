@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/671/trunk/src/glew/config
+END
+Makefile.darwin-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.darwin-x86_64
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.mingw
+END
+Makefile.linux-mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.linux-mingw32
+END
+Makefile.darwin
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.darwin
+END
+Makefile.kfreebsd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.kfreebsd
+END
+Makefile.linux-mingw64
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.linux-mingw64
+END
+Makefile.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.gnu
+END
+Makefile.cygming
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.cygming
+END
+Makefile.linux.orig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.linux.orig
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.linux
+END
+Makefile.cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.cygwin
+END
+Makefile.solaris-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.solaris-gcc
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/671/trunk/src/glew/config/version
+END
+Makefile.freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.freebsd
+END
+Makefile.irix
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.irix
+END
+Makefile.solaris
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/671/trunk/src/glew/config/Makefile.solaris
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/214/trunk/src/glew/config/config.guess
+END

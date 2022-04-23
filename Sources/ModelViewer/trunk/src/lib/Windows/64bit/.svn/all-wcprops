@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit
+END
+glew64d_VC90.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/glew64d_VC90.lib
+END
+cximagecrt64d_VC100.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/cximagecrt64d_VC100.lib
+END
+fbxsdk_20113_amd64d_VC100.lib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/fbxsdk_20113_amd64d_VC100.lib
+END
+cximagecrt64_VC90.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/cximagecrt64_VC90.lib
+END
+glew64_VC100.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/glew64_VC100.lib
+END
+fbxsdk_20113_amd64_VC90.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/fbxsdk_20113_amd64_VC90.lib
+END
+glew64d_VC100.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/glew64d_VC100.lib
+END
+cximagecrt64d_VC90.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/cximagecrt64d_VC90.lib
+END
+fbxsdk_20113_amd64d_VC90.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/fbxsdk_20113_amd64d_VC90.lib
+END
+cximagecrt64_VC100.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/cximagecrt64_VC100.lib
+END
+glew64_VC90.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/glew64_VC90.lib
+END
+fbxsdk_20113_amd64_VC100.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/583/trunk/src/lib/Windows/64bit/fbxsdk_20113_amd64_VC100.lib
+END

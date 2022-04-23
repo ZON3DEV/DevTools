@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/598/trunk/bin_support/Windows/32bit
+END
+msvcr100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/598/trunk/bin_support/Windows/32bit/msvcr100.dll
+END
+cximagecrt32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/583/trunk/bin_support/Windows/32bit/cximagecrt32.dll
+END
+fbxsdk_20113d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/268/trunk/bin_support/Windows/32bit/fbxsdk_20113d.dll
+END
+cximagecrt32d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/583/trunk/bin_support/Windows/32bit/cximagecrt32d.dll
+END
+msvcp90.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/142/trunk/bin_support/Windows/32bit/msvcp90.dll
+END
+msvcr90.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/142/trunk/bin_support/Windows/32bit/msvcr90.dll
+END
+fbxsdk_20113.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/268/trunk/bin_support/Windows/32bit/fbxsdk_20113.dll
+END
+msvcp100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/598/trunk/bin_support/Windows/32bit/msvcp100.dll
+END

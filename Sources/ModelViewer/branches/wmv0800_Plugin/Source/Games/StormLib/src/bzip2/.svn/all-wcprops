@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2
+END
+bzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/bzlib.c
+END
+blocksort.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/blocksort.c
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/decompress.c
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/huffman.c
+END
+bzlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/bzlib.h
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/compress.c
+END
+randtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/randtable.c
+END
+crctable.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/crctable.c
+END
+bzlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/bzip2/bzlib_private.h
+END

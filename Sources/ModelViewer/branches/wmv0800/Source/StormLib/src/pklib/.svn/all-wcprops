@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/pklib
+END
+explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/pklib/explode.c
+END
+pklib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/pklib/pklib.h
+END
+implode.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/pklib/implode.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/src/pklib/crc32.c
+END

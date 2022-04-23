@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/667/trunk/src/stormlib/test
+END
+starcraft_sparse.asm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/166/trunk/src/stormlib/test/starcraft_sparse.asm
+END
+starcraft_lzma.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/src/stormlib/test/starcraft_lzma.asm
+END
+x86_starcraft_lzma.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/383/trunk/src/stormlib/test/x86_starcraft_lzma.asm
+END
+Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/667/trunk/src/stormlib/test/Test.cpp
+END
+x86_ripped_code.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/481/trunk/src/stormlib/test/x86_ripped_code.asm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/pklib
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/pklib/crc32.c
+END
+explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/pklib/explode.c
+END
+pklib.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/pklib/pklib.h
+END
+implode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/src/pklib/implode.c
+END

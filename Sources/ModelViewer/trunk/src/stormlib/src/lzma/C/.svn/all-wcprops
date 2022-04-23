@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C
+END
+LzFind.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzFind.c
+END
+LzFindMt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzFindMt.c
+END
+LzmaEnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzmaEnc.c
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/Types.h
+END
+Threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/Threads.c
+END
+LzFind.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzFind.h
+END
+LzFindMt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzFindMt.h
+END
+LzmaEnc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzmaEnc.h
+END
+LzHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzHash.h
+END
+LzmaDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzmaDec.c
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/Threads.h
+END
+LzmaDec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166/trunk/src/stormlib/src/lzma/C/LzmaDec.h
+END

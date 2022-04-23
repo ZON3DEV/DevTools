@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/673/trunk/src/stormlib
+END
+Publish.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/259/trunk/src/stormlib/Publish.bat
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/481/trunk/src/stormlib/Makefile.linux
+END
+makefile.mac
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/481/trunk/src/stormlib/makefile.mac
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/654/trunk/src/stormlib/CMakeLists.txt
+END
+StormLib_dll.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/456/trunk/src/stormlib/StormLib_dll.sln
+END
+StormLib_test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/166/trunk/src/stormlib/StormLib_test.sln
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/481/trunk/src/stormlib/Info.plist
+END
+makefile.w32
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/481/trunk/src/stormlib/makefile.w32
+END
+StormLib_VC90.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/583/trunk/src/stormlib/StormLib_VC90.sln
+END
+StormLib_dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/481/trunk/src/stormlib/StormLib_dll.vcproj
+END
+Storm_dll.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/169/trunk/src/stormlib/Storm_dll.sln
+END
+StormLib_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/481/trunk/src/stormlib/StormLib_test.vcproj
+END
+StormLib_VC100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/673/trunk/src/stormlib/StormLib_VC100.vcxproj
+END
+StormLib_VC90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/673/trunk/src/stormlib/StormLib_VC90.vcproj
+END
+StormLib_VC100.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/583/trunk/src/stormlib/StormLib_VC100.sln
+END
+StormLib.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/166/trunk/src/stormlib/StormLib.bat
+END
+Storm_dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/481/trunk/src/stormlib/Storm_dll.vcproj
+END
+Storm_dll.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/166/trunk/src/stormlib/Storm_dll.bat
+END
+StormLib_VC100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/583/trunk/src/stormlib/StormLib_VC100.vcxproj.filters
+END
+Publish_beta.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/456/trunk/src/stormlib/Publish_beta.bat
+END
+StormLib_test.kdev4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/456/trunk/src/stormlib/StormLib_test.kdev4
+END

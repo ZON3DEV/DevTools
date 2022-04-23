@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/478/trunk/src/fbxfilesdk
+END
+fbxfilesdk_nsuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxfilesdk_nsuse.h
+END
+fbxfilesdk_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/478/trunk/src/fbxfilesdk/fbxfilesdk_def.h
+END
+fbxfilesdk_nsbegin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxfilesdk_nsbegin.h
+END
+fbxfilesdk_nsend.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxfilesdk_nsend.h
+END
+fbxfilesdk_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxfilesdk_memory.h
+END
+fbxfilesdk_new.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxfilesdk_new.h
+END

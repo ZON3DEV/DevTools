@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Foundation
+END
+Foundation.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Foundation/Foundation.vcxproj
+END
+Singleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Foundation/Singleton.cpp
+END
+Foundation.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Foundation/Foundation.vcxproj.filters
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Foundation/Singleton.h
+END

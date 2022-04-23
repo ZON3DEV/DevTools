@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/CommonWindows
+END
+AboutPlugins.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/663/branches/wmv0800_Plugin/Source/CommonWindows/AboutPlugins.h
+END
+CommonWindows.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/CommonWindows/CommonWindows.vcxproj.filters
+END
+commonwindows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/CommonWindows/commonwindows.cpp
+END
+GameDirManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/CommonWindows/GameDirManager.cpp
+END
+commonwindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/CommonWindows/commonwindows.h
+END
+GameDirManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/CommonWindows/GameDirManager.h
+END
+commonwindows_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/CommonWindows/commonwindows_global.h
+END
+About.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/673/branches/wmv0800_Plugin/Source/CommonWindows/About.cpp
+END
+CommonWindows.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/CommonWindows/CommonWindows.vcxproj
+END
+AboutPlugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/CommonWindows/AboutPlugins.cpp
+END
+About.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/663/branches/wmv0800_Plugin/Source/CommonWindows/About.h
+END

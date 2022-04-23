@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml
+END
+valid.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/valid.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/tree.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/config.h
+END
+xmlversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlversion.h
+END
+xmlerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlerror.h
+END
+xmlregexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlregexp.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/list.h
+END
+SAX2.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/SAX2.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/globals.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/hash.h
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/dict.h
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/entities.h
+END
+xmlexports.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlexports.h
+END
+xlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xlink.h
+END
+encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/encoding.h
+END
+xmlIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlIO.h
+END
+xmlmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlmemory.h
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/threads.h
+END
+SAX.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/SAX.h
+END
+xmlautomata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/xmlautomata.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/components/libxml2-2.6.4/include/libxml/parser.h
+END

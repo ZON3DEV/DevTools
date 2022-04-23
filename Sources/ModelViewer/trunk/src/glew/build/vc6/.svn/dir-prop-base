@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 192
+*.ncb
+glew_shared.vcproj.THOR.Administrator.user
+glew_static.vcproj.THOR.Administrator.user
+glewinfo.vcproj.THOR.Administrator.user
+shared
+static
+visualinfo.vcproj.THOR.Administrator.user
+x64
+
+END

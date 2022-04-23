@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/stormlib_dll
+END
+StormLib.exp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/stormlib_dll/StormLib.exp
+END
+StormLib.def
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Games/StormLib/stormlib_dll/StormLib.def
+END
+DllMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/675/branches/wmv0800_Plugin/Source/Games/StormLib/stormlib_dll/DllMain.c
+END

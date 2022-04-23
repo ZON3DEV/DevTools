@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/254/trunk/src/libmpq
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/254/trunk/src/libmpq/extract.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/libmpq/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/libmpq/common.h
+END
+mpq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/195/trunk/src/libmpq/mpq.cpp
+END
+explode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/254/trunk/src/libmpq/explode.cpp
+END
+wave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/libmpq/wave.cpp
+END
+mpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/254/trunk/src/libmpq/mpq.h
+END
+huffman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/src/libmpq/huffman.cpp
+END
+explode.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/libmpq/explode.h
+END
+libmpq.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/156/trunk/src/libmpq/libmpq.vcproj
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/libmpq/wave.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/libmpq/common.cpp
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/libmpq/huffman.h
+END

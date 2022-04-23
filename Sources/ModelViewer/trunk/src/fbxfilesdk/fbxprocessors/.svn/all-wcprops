@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors
+END
+kfbxprocessorxref.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/kfbxprocessorxref.h
+END
+fbxprocessors_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/fbxprocessors_def.h
+END
+fbxprocessors.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/fbxprocessors.h
+END
+kfbxprocessorxrefuserlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/kfbxprocessorxrefuserlib.h
+END
+kfbxembeddedfilesaccumulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/kfbxembeddedfilesaccumulator.h
+END
+fbxprocessors_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/fbxprocessors_module.h
+END
+kfbxprocessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxprocessors/kfbxprocessor.h
+END

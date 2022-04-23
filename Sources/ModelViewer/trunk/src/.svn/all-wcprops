@@ -1,0 +1,653 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/689/trunk/src
+END
+AnimExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/646/trunk/src/AnimExporter.h
+END
+modelexportoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/394/trunk/src/modelexportoptions.h
+END
+app.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/646/trunk/src/app.h
+END
+GlobalSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/649/trunk/src/GlobalSettings.h
+END
+AVIGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/502/trunk/src/AVIGenerator.cpp
+END
+imagecontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/246/trunk/src/imagecontrol.h
+END
+globalvars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/104/trunk/src/globalvars.cpp
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/45/trunk/src/camera.h
+END
+dbcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/581/trunk/src/dbcfile.h
+END
+post_macos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/596/trunk/src/post_macos.sh
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/660/trunk/src/database.cpp
+END
+model.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/660/trunk/src/model.h
+END
+modelcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/680/trunk/src/modelcontrol.h
+END
+jsonwriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/683/trunk/src/jsonwriter.cpp
+END
+mpq_libmpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/429/trunk/src/mpq_libmpq.h
+END
+vec3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/607/trunk/src/vec3d.h
+END
+wowmodelview_VC100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/673/trunk/src/wowmodelview_VC100.vcxproj
+END
+wowmodelview.rc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/500/trunk/src/wowmodelview.rc
+END
+arrows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/618/trunk/src/arrows.cpp
+END
+modelexportoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/555/trunk/src/modelexportoptions.cpp
+END
+modelexport_ogre.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/652/trunk/src/modelexport_ogre.cpp
+END
+effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/618/trunk/src/effects.cpp
+END
+app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/685/trunk/src/app.cpp
+END
+wowmodelview_VC100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/644/trunk/src/wowmodelview_VC100.vcxproj.filters
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/646/trunk/src/util.h
+END
+charcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/686/trunk/src/charcontrol.h
+END
+modelexport_lwo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/683/trunk/src/modelexport_lwo.cpp
+END
+filecontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/360/trunk/src/filecontrol.h
+END
+animcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/660/trunk/src/animcontrol.cpp
+END
+fbxsdk.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/268/trunk/src/fbxsdk.h
+END
+modelviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/689/trunk/src/modelviewer.h
+END
+camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/607/trunk/src/camera.cpp
+END
+dbcfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/651/trunk/src/dbcfile.cpp
+END
+UserSkins.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/390/trunk/src/UserSkins.h
+END
+maptile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/555/trunk/src/maptile.cpp
+END
+modelexport_obj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/683/trunk/src/modelexport_obj.cpp
+END
+modelexport_ms3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/128/trunk/src/modelexport_ms3d.h
+END
+model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/683/trunk/src/model.cpp
+END
+ddslib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/467/trunk/src/ddslib.cpp
+END
+particle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/583/trunk/src/particle.cpp
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/246/trunk/src/settings.h
+END
+Quantize.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/128/trunk/src/Quantize.h
+END
+wmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/644/trunk/src/wmo.h
+END
+itemselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/246/trunk/src/itemselection.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/608/trunk/src/matrix.h
+END
+mpq_stormlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/516/trunk/src/mpq_stormlib.h
+END
+charcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/688/trunk/src/charcontrol.cpp
+END
+filecontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/646/trunk/src/filecontrol.cpp
+END
+modelviewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/683/trunk/src/modelviewer.cpp
+END
+arrows.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/246/trunk/src/arrows.h
+END
+effects.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/555/trunk/src/effects.h
+END
+OpenGLHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/473/trunk/src/OpenGLHeaders.h
+END
+UserSkins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/646/trunk/src/UserSkins.cpp
+END
+liquid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/555/trunk/src/liquid.cpp
+END
+modelexport_lwo.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/683/trunk/src/modelexport_lwo.h
+END
+modelexport_ms3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/644/trunk/src/modelexport_ms3d.cpp
+END
+shaders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/561/trunk/src/shaders.cpp
+END
+animcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/584/trunk/src/animcontrol.h
+END
+jsonreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/660/trunk/src/jsonreader.cpp
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/683/trunk/src/enums.h
+END
+modelbankcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/555/trunk/src/modelbankcontrol.cpp
+END
+exporters.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/644/trunk/src/exporters.h
+END
+Quantize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/128/trunk/src/Quantize.cpp
+END
+settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/620/trunk/src/settings.cpp
+END
+maptile.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/555/trunk/src/maptile.h
+END
+modelheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/413/trunk/src/modelheaders.h
+END
+modelexport_m3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/555/trunk/src/modelexport_m3.cpp
+END
+modelcanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/646/trunk/src/modelcanvas.h
+END
+wmo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/644/trunk/src/wmo.cpp
+END
+mpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/197/trunk/src/mpq.h
+END
+wowmodelview_VC90.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/610/trunk/src/wowmodelview_VC90.sln
+END
+itemselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/616/trunk/src/itemselection.cpp
+END
+RenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/473/trunk/src/RenderTexture.h
+END
+ddslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/34/trunk/src/ddslib.h
+END
+modelexport.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/644/trunk/src/modelexport.h
+END
+mpq_stormlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/647/trunk/src/mpq_stormlib.cpp
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/555/trunk/src/particle.h
+END
+wowmodelview_VC90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/673/trunk/src/wowmodelview_VC90.vcproj
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/607/trunk/src/video.h
+END
+wowmodelview_VC100.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/610/trunk/src/wowmodelview_VC100.sln
+END
+jsonval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/660/trunk/src/jsonval.cpp
+END
+AnimExporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/646/trunk/src/AnimExporter.cpp
+END
+lightcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/246/trunk/src/lightcontrol.h
+END
+modelexport_x3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/607/trunk/src/modelexport_x3d.cpp
+END
+GlobalSettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/660/trunk/src/GlobalSettings.cpp
+END
+imagecontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/502/trunk/src/imagecontrol.cpp
+END
+animated.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/640/trunk/src/animated.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/607/trunk/src/quaternion.h
+END
+AVIGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/246/trunk/src/AVIGenerator.h
+END
+modelcanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/646/trunk/src/modelcanvas.cpp
+END
+liquid.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/360/trunk/src/liquid.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/656/trunk/src/CMakeLists.txt
+END
+shaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/561/trunk/src/shaders.h
+END
+displayable.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/246/trunk/src/displayable.h
+END
+RenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/652/trunk/src/RenderTexture.cpp
+END
+modelexport_fbx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/644/trunk/src/modelexport_fbx.cpp
+END
+globalvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/104/trunk/src/globalvars.h
+END
+modelcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/680/trunk/src/modelcontrol.cpp
+END
+mpq_libmpq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/429/trunk/src/mpq_libmpq.cpp
+END
+modelexport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/683/trunk/src/modelexport.cpp
+END
+modelbankcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/598/trunk/src/modelbankcontrol.h
+END
+modelexport_m3.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/444/trunk/src/modelexport_m3.h
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/646/trunk/src/video.cpp
+END
+lightcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/555/trunk/src/lightcontrol.cpp
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/688/trunk/src/database.h
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/646/trunk/src/util.cpp
+END
+resource1.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/500/trunk/src/resource1.h
+END
+manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/556/trunk/src/manager.h
+END

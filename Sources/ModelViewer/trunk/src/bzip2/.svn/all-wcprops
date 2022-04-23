@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/156/trunk/src/bzip2
+END
+bzgrep.1
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/bzip2/bzgrep.1
+END
+bzip2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2.vcproj
+END
+bzip.css
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/bzip2/bzip.css
+END
+dlltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/dlltest.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/README
+END
+bzip2recover.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2recover.c
+END
+sample1.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/sample1.bz2
+END
+bzmore
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/bzmore
+END
+sample2.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/sample2.bz2
+END
+dlltest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/dlltest.dsp
+END
+Makefile-libbz2_so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/156/trunk/src/bzip2/Makefile-libbz2_so
+END
+crctable.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/crctable.c
+END
+sample3.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/sample3.bz2
+END
+bzip2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2.txt
+END
+bzdiff
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/bzdiff
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/huffman.c
+END
+spewG.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/spewG.c
+END
+bzip2.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2.c
+END
+sample1.ref
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/sample1.ref
+END
+randtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/randtable.c
+END
+unzcrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/unzcrash.c
+END
+sample2.ref
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/sample2.ref
+END
+sample3.ref
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/sample3.ref
+END
+mk251.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/mk251.c
+END
+manual.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/manual.html
+END
+bzip2.1.preformatted
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2.1.preformatted
+END
+libbz2.def
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/libbz2.def
+END
+bz-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/bz-html.xsl
+END
+bz-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/bz-fo.xsl
+END
+bzlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/156/trunk/src/bzip2/bzlib_private.h
+END
+bzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/bzlib.c
+END
+entities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/src/bzip2/entities.xml
+END
+bzip2.1
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2.1
+END
+bzlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/bzlib.h
+END
+bzgrep
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/bzgrep
+END
+README.COMPILATION.PROBLEMS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/156/trunk/src/bzip2/README.COMPILATION.PROBLEMS
+END
+bzmore.1
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/bzip2/bzmore.1
+END
+xmlproc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/xmlproc.sh
+END
+manual.ps
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/manual.ps
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/src/bzip2/makefile.msc
+END
+format.pl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/format.pl
+END
+bzdiff.1
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/bzip2/bzdiff.1
+END
+bz-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/156/trunk/src/bzip2/bz-common.xsl
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/CHANGES
+END
+libbz2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/libbz2.dsp
+END
+manual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/manual.xml
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/compress.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/bzip2/Makefile
+END
+words0
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/words0
+END
+words1
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/words1
+END
+words2
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/words2
+END
+bzip2.sln
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/bzip2/bzip2.sln
+END
+words3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/bzip2/words3
+END
+README.XML.STUFF
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/156/trunk/src/bzip2/README.XML.STUFF
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/156/trunk/src/bzip2/LICENSE
+END
+blocksort.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/bzip2/blocksort.c
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/src/bzip2/decompress.c
+END
+manual.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/src/bzip2/manual.pdf
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Application
+END
+InterfaceController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Application/InterfaceController.h
+END
+resources.rc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/Application/resources.rc
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/wmv0800_Plugin/Source/Application/resource.h
+END
+Application.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Application/Application.vcxproj
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Application/resources.qrc
+END
+Settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Application/Settings.cpp
+END
+Application.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/673/branches/wmv0800_Plugin/Source/Application/Application.vcxproj.filters
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/681/branches/wmv0800_Plugin/Source/Application/main.cpp
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Application/Settings.h
+END

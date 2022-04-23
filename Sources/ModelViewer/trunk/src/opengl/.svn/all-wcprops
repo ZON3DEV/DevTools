@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/478/trunk/src/opengl
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/478/trunk/src/opengl/wglext.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/478/trunk/src/opengl/glxext.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/478/trunk/src/opengl/glext.h
+END

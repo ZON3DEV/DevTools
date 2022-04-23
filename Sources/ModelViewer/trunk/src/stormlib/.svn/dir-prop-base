@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 154
+StormLib.ncb
+StormLib.suo
+StormLib.vcproj.THOR.Administrator.user
+StormLib_dll.ncb
+StormLib_dll.suo
+StormLib_dll.vcproj.THOR.Administrator.user
+bin
+build
+
+END

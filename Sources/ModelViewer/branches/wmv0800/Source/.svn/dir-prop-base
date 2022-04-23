@@ -1,0 +1,19 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 76
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.user
+Debug
+GeneratedFiles
+Release
+ipch
+ui_*.h
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/566/trunk/bin/shaders
+END
+terrain1.fs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/bin/shaders/terrain1.fs
+END
+terrain2.fs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/bin/shaders/terrain2.fs
+END
+terrain3.fs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/bin/shaders/terrain3.fs
+END
+waterfog.ps
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/bin/shaders/waterfog.ps
+END
+terrain4.fs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/bin/shaders/terrain4.fs
+END
+water.ps
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/566/trunk/bin/shaders/water.ps
+END
+wateroutdoor.fs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/566/trunk/bin/shaders/wateroutdoor.fs
+END
+wmospecular.fs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/566/trunk/bin/shaders/wmospecular.fs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/storm_dll
+END
+storm_dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/storm_dll/storm_dll.cpp
+END
+storm_dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/storm_dll/storm_dll.h
+END
+storm_dll.def
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/609/branches/wmv0800/Source/StormLib/storm_dll/storm_dll.def
+END

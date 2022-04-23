@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath
+END
+kfbxvector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath/kfbxvector2.h
+END
+kfbxmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath/kfbxmatrix.h
+END
+kfbxquaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath/kfbxquaternion.h
+END
+kfbxtransformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath/kfbxtransformation.h
+END
+kfbxvector4.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath/kfbxvector4.h
+END
+kfbxxmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/kfbxmath/kfbxxmatrix.h
+END

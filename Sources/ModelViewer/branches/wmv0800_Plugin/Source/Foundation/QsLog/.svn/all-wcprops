@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/674/branches/wmv0800_Plugin/Source/Foundation/QsLog
+END
+QsDebugOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Foundation/QsLog/QsDebugOutput.h
+END
+QsLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Foundation/QsLog/QsLog.cpp
+END
+QsLogDest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Foundation/QsLog/QsLogDest.cpp
+END
+QsLogDest.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Foundation/QsLog/QsLogDest.h
+END
+QsLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Foundation/QsLog/QsLog.h
+END
+QsDebugOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/643/branches/wmv0800_Plugin/Source/Foundation/QsLog/QsDebugOutput.cpp
+END

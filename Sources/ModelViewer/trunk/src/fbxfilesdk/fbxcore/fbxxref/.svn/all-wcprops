@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxcore/fbxxref
+END
+fbxxref_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxcore/fbxxref/fbxxref_def.h
+END
+fbxxref.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxcore/fbxxref/fbxxref.h
+END
+kfbxref.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxcore/fbxxref/kfbxref.h
+END
+fbxxref_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/268/trunk/src/fbxfilesdk/fbxcore/fbxxref/fbxxref_module.h
+END
